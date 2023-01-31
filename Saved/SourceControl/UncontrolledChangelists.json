@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UnrealEngine/Project/Tanky/Content/Blueprints/Pawns/BP_PawnTank.uasset",
+				"E:/UnrealEngine/Project/Tanky/Content/Blueprints/Pawns/BP_PawnTurret.uasset"
+			]
+		}
+	]
+}
