@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\unrealengine\\project\\tanky\\source\\toontanks\\toontanks.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealengine\\project\\tanky\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\unrealengine\\project\\tanky\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "e:\\unrealengine\\project\\tanky\\source\\toontanks\\toontanks.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
