@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Project/TUTO/Tanks/Tanky/Content/Blueprints/Actor/BP_Projectile.uasset",
+				"D:/Project/TUTO/Tanks/Tanky/Content/Maps/Main.umap",
+				"D:/Project/TUTO/Tanks/Tanky/Content/Blueprints/Pawns/BP_PawnTank.uasset",
+				"D:/Project/TUTO/Tanks/Tanky/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"D:/Project/TUTO/Tanks/Tanky/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset",
 				"E:/UnrealEngine/Project/Tanky/Content/Blueprints/Pawns/BP_PawnTank.uasset",
 				"E:/UnrealEngine/Project/Tanky/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
 				"E:/UnrealEngine/Project/Tanky/Content/Maps/Main.umap",

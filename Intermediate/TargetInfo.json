@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ToonTanks",
-			"Path": "E:\\UnrealEngine\\Project\\Tanky\\Source\\ToonTanks.Target.cs",
+			"Path": "D:\\Project\\TUTO\\Tanks\\Tanky\\Source\\ToonTanks.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ToonTanksEditor",
-			"Path": "E:\\UnrealEngine\\Project\\Tanky\\Source\\ToonTanksEditor.Target.cs",
+			"Path": "D:\\Project\\TUTO\\Tanks\\Tanky\\Source\\ToonTanksEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

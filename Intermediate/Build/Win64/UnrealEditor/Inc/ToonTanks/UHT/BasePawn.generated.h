@@ -14,11 +14,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TOONTANKS_BasePawn_generated_h
 
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_SPARSE_DATA
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_RPC_WRAPPERS
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_ACCESSORS
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_INCLASS_NO_PURE_DECLS \
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_13_SPARSE_DATA
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_13_RPC_WRAPPERS
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_13_ACCESSORS
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABasePawn(); \
 	friend struct Z_Construct_UClass_ABasePawn_Statics; \
@@ -27,7 +27,7 @@ public: \
 	DECLARE_SERIALIZER(ABasePawn)
 
 
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_INCLASS \
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesABasePawn(); \
 	friend struct Z_Construct_UClass_ABasePawn_Statics; \
@@ -36,7 +36,7 @@ public: \
 	DECLARE_SERIALIZER(ABasePawn)
 
 
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_STANDARD_CONSTRUCTORS \
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ABasePawn(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABasePawn) \
@@ -50,7 +50,7 @@ public: \
 	NO_API virtual ~ABasePawn();
 
 
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ABasePawn(ABasePawn&&); \
@@ -62,27 +62,27 @@ public: \
 	NO_API virtual ~ABasePawn();
 
 
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_10_PROLOG
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_GENERATED_BODY_LEGACY \
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_10_PROLOG
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_SPARSE_DATA \
-	FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_RPC_WRAPPERS \
-	FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_ACCESSORS \
-	FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_INCLASS \
-	FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_STANDARD_CONSTRUCTORS \
+	FID_Tanky_Source_ToonTanks_BasePawn_h_13_SPARSE_DATA \
+	FID_Tanky_Source_ToonTanks_BasePawn_h_13_RPC_WRAPPERS \
+	FID_Tanky_Source_ToonTanks_BasePawn_h_13_ACCESSORS \
+	FID_Tanky_Source_ToonTanks_BasePawn_h_13_INCLASS \
+	FID_Tanky_Source_ToonTanks_BasePawn_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_GENERATED_BODY \
+#define FID_Tanky_Source_ToonTanks_BasePawn_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_SPARSE_DATA \
-	FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_ACCESSORS \
-	FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_INCLASS_NO_PURE_DECLS \
-	FID_Project_Tanky_Source_ToonTanks_BasePawn_h_13_ENHANCED_CONSTRUCTORS \
+	FID_Tanky_Source_ToonTanks_BasePawn_h_13_SPARSE_DATA \
+	FID_Tanky_Source_ToonTanks_BasePawn_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Tanky_Source_ToonTanks_BasePawn_h_13_ACCESSORS \
+	FID_Tanky_Source_ToonTanks_BasePawn_h_13_INCLASS_NO_PURE_DECLS \
+	FID_Tanky_Source_ToonTanks_BasePawn_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -90,7 +90,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> TOONTANKS_API UClass* StaticClass<class ABasePawn>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Project_Tanky_Source_ToonTanks_BasePawn_h
+#define CURRENT_FILE_ID FID_Tanky_Source_ToonTanks_BasePawn_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

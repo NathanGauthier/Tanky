@@ -50,6 +50,18 @@
     <ClInclude Include="..\..\Source\ToonTanks\BasePawn.h">
       <Filter>Source\ToonTanks</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\HealthComponent.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\HealthComponent.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\Projectile.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\Projectile.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\ToonTanks\Tank.cpp">
       <Filter>Source\ToonTanks</Filter>
     </ClCompile>
@@ -63,6 +75,18 @@
       <Filter>Source\ToonTanks</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ToonTanks\ToonTanks.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\ToonTanksGameMode.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\ToonTanksGameMode.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\ToonTanksPlayerController.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\ToonTanksPlayerController.h">
       <Filter>Source\ToonTanks</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\ToonTanks\Tower.cpp">

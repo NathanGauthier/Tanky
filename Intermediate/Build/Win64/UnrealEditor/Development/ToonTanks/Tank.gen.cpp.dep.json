@@ -1,15 +1,15 @@
 {
-    "Version": "1.1",
+    "Version": "1.2",
     "Data": {
-        "Source": "e:\\unrealengine\\project\\tanky\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.gen.cpp",
+        "Source": "d:\\project\\tuto\\tanks\\tanky\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\unrealengine\\project\\tanky\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "d:\\project\\tuto\\tanks\\tanky\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "e:\\unrealengine\\project\\tanky\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
-            "e:\\unrealengine\\project\\tanky\\source\\toontanks\\tank.h",
-            "e:\\unrealengine\\project\\tanky\\source\\toontanks\\basepawn.h",
-            "e:\\unrealengine\\project\\tanky\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.generated.h",
-            "e:\\unrealengine\\project\\tanky\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h"
+            "d:\\project\\tuto\\tanks\\tanky\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "d:\\project\\tuto\\tanks\\tanky\\source\\toontanks\\tank.h",
+            "d:\\project\\tuto\\tanks\\tanky\\source\\toontanks\\basepawn.h",
+            "d:\\project\\tuto\\tanks\\tanky\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.generated.h",
+            "d:\\project\\tuto\\tanks\\tanky\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

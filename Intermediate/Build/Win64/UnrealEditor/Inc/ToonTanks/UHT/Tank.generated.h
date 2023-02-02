@@ -14,11 +14,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TOONTANKS_Tank_generated_h
 
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_17_SPARSE_DATA
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_17_RPC_WRAPPERS
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_17_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_17_ACCESSORS
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_Tanky_Source_ToonTanks_Tank_h_17_SPARSE_DATA
+#define FID_Tanky_Source_ToonTanks_Tank_h_17_RPC_WRAPPERS
+#define FID_Tanky_Source_ToonTanks_Tank_h_17_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Tanky_Source_ToonTanks_Tank_h_17_ACCESSORS
+#define FID_Tanky_Source_ToonTanks_Tank_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATank(); \
 	friend struct Z_Construct_UClass_ATank_Statics; \
@@ -27,7 +27,7 @@ public: \
 	DECLARE_SERIALIZER(ATank)
 
 
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_17_INCLASS \
+#define FID_Tanky_Source_ToonTanks_Tank_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesATank(); \
 	friend struct Z_Construct_UClass_ATank_Statics; \
@@ -36,7 +36,7 @@ public: \
 	DECLARE_SERIALIZER(ATank)
 
 
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_17_STANDARD_CONSTRUCTORS \
+#define FID_Tanky_Source_ToonTanks_Tank_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ATank(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATank) \
@@ -50,7 +50,7 @@ public: \
 	NO_API virtual ~ATank();
 
 
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_Tanky_Source_ToonTanks_Tank_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ATank(ATank&&); \
@@ -62,27 +62,27 @@ public: \
 	NO_API virtual ~ATank();
 
 
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_14_PROLOG
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_17_GENERATED_BODY_LEGACY \
+#define FID_Tanky_Source_ToonTanks_Tank_h_14_PROLOG
+#define FID_Tanky_Source_ToonTanks_Tank_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Project_Tanky_Source_ToonTanks_Tank_h_17_SPARSE_DATA \
-	FID_Project_Tanky_Source_ToonTanks_Tank_h_17_RPC_WRAPPERS \
-	FID_Project_Tanky_Source_ToonTanks_Tank_h_17_ACCESSORS \
-	FID_Project_Tanky_Source_ToonTanks_Tank_h_17_INCLASS \
-	FID_Project_Tanky_Source_ToonTanks_Tank_h_17_STANDARD_CONSTRUCTORS \
+	FID_Tanky_Source_ToonTanks_Tank_h_17_SPARSE_DATA \
+	FID_Tanky_Source_ToonTanks_Tank_h_17_RPC_WRAPPERS \
+	FID_Tanky_Source_ToonTanks_Tank_h_17_ACCESSORS \
+	FID_Tanky_Source_ToonTanks_Tank_h_17_INCLASS \
+	FID_Tanky_Source_ToonTanks_Tank_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_Project_Tanky_Source_ToonTanks_Tank_h_17_GENERATED_BODY \
+#define FID_Tanky_Source_ToonTanks_Tank_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Project_Tanky_Source_ToonTanks_Tank_h_17_SPARSE_DATA \
-	FID_Project_Tanky_Source_ToonTanks_Tank_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Project_Tanky_Source_ToonTanks_Tank_h_17_ACCESSORS \
-	FID_Project_Tanky_Source_ToonTanks_Tank_h_17_INCLASS_NO_PURE_DECLS \
-	FID_Project_Tanky_Source_ToonTanks_Tank_h_17_ENHANCED_CONSTRUCTORS \
+	FID_Tanky_Source_ToonTanks_Tank_h_17_SPARSE_DATA \
+	FID_Tanky_Source_ToonTanks_Tank_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Tanky_Source_ToonTanks_Tank_h_17_ACCESSORS \
+	FID_Tanky_Source_ToonTanks_Tank_h_17_INCLASS_NO_PURE_DECLS \
+	FID_Tanky_Source_ToonTanks_Tank_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -90,7 +90,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> TOONTANKS_API UClass* StaticClass<class ATank>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Project_Tanky_Source_ToonTanks_Tank_h
+#define CURRENT_FILE_ID FID_Tanky_Source_ToonTanks_Tank_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

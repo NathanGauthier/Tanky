@@ -1,4 +1,4 @@
-E:\UnrealEngine\Project\Tanky\Source\ToonTanks\ToonTanks.cpp
+D:\Project\TUTO\Tanks\Tanky\Source\ToonTanks\ToonTanks.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I Runtime
@@ -269,22 +269,23 @@ E:\UnrealEngine\Project\Tanky\Source\ToonTanks\ToonTanks.cpp
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I E:\UnrealEngine\Project\Tanky\Intermediate\Build\Win64\UnrealEditor\Inc\ToonTanks\UHT
-/I E:\UnrealEngine\Project\Tanky\Source
-/I ThirdParty\mimalloc\include
-/I ThirdParty\LibTiff\Source\Win64
-/I ThirdParty\LibTiff\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"E:\UnrealEngine\Project\Tanky\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"E:\UnrealEngine\Project\Tanky\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\Definitions.ToonTanks.h"
-/Yu"E:\UnrealEngine\Project\Tanky\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"E:\UnrealEngine\Project\Tanky\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"E:\UnrealEngine\Project\Tanky\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.cpp.obj"
-/sourceDependencies E:\UnrealEngine\Project\Tanky\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.cpp.dep.json
+/I D:\Project\TUTO\Tanks\Tanky\Intermediate\Build\Win64\UnrealEditor\Inc\ToonTanks\UHT
+/I D:\Project\TUTO\Tanks\Tanky\Source
+/external:W0
+/external:I ThirdParty\mimalloc\include
+/external:I ThirdParty\LibTiff\Source\Win64
+/external:I ThirdParty\LibTiff\Source
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"D:\Project\TUTO\Tanks\Tanky\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"D:\Project\TUTO\Tanks\Tanky\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\Definitions.ToonTanks.h"
+/Yu"D:\Project\TUTO\Tanks\Tanky\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"D:\Project\TUTO\Tanks\Tanky\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"D:\Project\TUTO\Tanks\Tanky\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.cpp.obj"
+/sourceDependencies D:\Project\TUTO\Tanks\Tanky\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
